@@ -2,4 +2,4 @@
 
 ## Scss
 
-[learn scss(https://sass-lang.com/guide/)]
+[learn scss](https://sass-lang.com/guide/)
